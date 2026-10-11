@@ -1,0 +1,6 @@
+# Star Electronics Ganga
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://starelectronicsganga.in/sitemap.xml
